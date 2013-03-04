@@ -67,4 +67,4 @@ How it's gonna go down
 Things we need to ask Richard for
 ----
 * Projector
-* Speakers
+* ~~Speakers~~
