@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NoMoreClones/Ship.cs">
+    <Files>
+      <File FileName="NoMoreClones/MainGame.cs" Line="123" Column="24" />
+      <File FileName="NoMoreClones/Program.cs" Line="14" Column="20" />
+      <File FileName="NoMoreClones/Ship.cs" Line="46" Column="1" />
+      <File FileName="NoMoreClones/Entity.cs" Line="144" Column="4" />
+      <File FileName="NoMoreClones/FriendlyBullet.cs" Line="12" Column="22" />
+      <File FileName="NoMoreClones/Target.cs" Line="8" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
